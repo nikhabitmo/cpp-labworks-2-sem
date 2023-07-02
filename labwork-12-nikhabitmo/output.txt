@@ -1,0 +1,3 @@
+Marks||
+maths|4|2
+column1-int:0,60,|column2-int:0,72,|column3-int:0,75,|column4-int:0,80,|
