@@ -1,0 +1,1 @@
+add_library(Algorithms AlgorithmsSTL.h AlgorithmsSTL.cpp AlgorithmsPY.h)
