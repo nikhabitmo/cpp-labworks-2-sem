@@ -1,0 +1,1 @@
+add_library(MemoryPoolsAllocator MemoryPoolsAllocator.cpp MemoryPoolsAllocator.h)
