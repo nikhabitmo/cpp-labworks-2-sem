@@ -1,0 +1,1 @@
+add_library(forecast forecast_weather.h forecast_weather.cpp)

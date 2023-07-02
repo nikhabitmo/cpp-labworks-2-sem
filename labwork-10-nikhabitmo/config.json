@@ -1,0 +1,21 @@
+{
+  "cities": [
+    {
+      "name": "Islamabad"
+    },
+    {
+      "name": "Saint Petersburg"
+    },
+    {
+      "name": "Arkhangelsk"
+    },
+    {
+      "name": "New York"
+    },
+    {
+      "name": "Los Angeles"
+    }
+  ],
+  "update_frequency": 3600,
+  "forecast_days": 3
+}
