@@ -1,0 +1,8 @@
+C:/Users/nikha/CLionProjects/labwork-7-nikhabitmo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nikha/CLionProjects/labwork-7-nikhabitmo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/nikha/CLionProjects/labwork-7-nikhabitmo/cmake-build-debug/lib/CMakeFiles/id3v2.4.dir
+C:/Users/nikha/CLionProjects/labwork-7-nikhabitmo/cmake-build-debug/lib/CMakeFiles/edit_cache.dir
+C:/Users/nikha/CLionProjects/labwork-7-nikhabitmo/cmake-build-debug/lib/CMakeFiles/rebuild_cache.dir
+C:/Users/nikha/CLionProjects/labwork-7-nikhabitmo/cmake-build-debug/bin/CMakeFiles/labwork_7_nikhabitmo.dir
+C:/Users/nikha/CLionProjects/labwork-7-nikhabitmo/cmake-build-debug/bin/CMakeFiles/edit_cache.dir
+C:/Users/nikha/CLionProjects/labwork-7-nikhabitmo/cmake-build-debug/bin/CMakeFiles/rebuild_cache.dir
